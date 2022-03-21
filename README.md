@@ -17,4 +17,4 @@ My Object Orientated Programming activities are here! UNICAMP stuff :)
 └── lab01      <- primeiro lab
 ~~~
 
-## [Lab01](POOstuff_247069/lab01) - Empréstimos em C
+## [Lab01](https://github.com/NuitJack/POOstuff_247069/tree/main/lab01) - Empréstimos em C
