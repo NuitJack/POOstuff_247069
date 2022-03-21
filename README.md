@@ -10,7 +10,7 @@ My Object Orientated Programming activities are here! UNICAMP stuff :)
 # Curso
 * `Engenharia de Computação`
 
-## Estrutura de arquivos e pastas
+# Estrutura de arquivos e pastas
 ~~~
 ├── README.md  <- apresentação do aluno
 │
