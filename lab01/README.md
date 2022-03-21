@@ -10,7 +10,7 @@ Estrutura de pastas:
 
 ## Notebook 1 sobre Empréstimos
 
-[Notebook 1](notebook/emprestimo1.ipynb)
+[Notebook 1](notebooks/emprestimo1.ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
 
