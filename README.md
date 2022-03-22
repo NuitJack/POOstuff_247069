@@ -21,3 +21,12 @@ My Object Orientated Programming activities are here! UNICAMP stuff :)
 ~~~
 
 ## [Lab01](https://github.com/NuitJack/POOstuff_247069/tree/main/lab01) - Empréstimos em C
+
+# Running locally basic C kernel
+> pip install jupyter
+
+> pip install jupyter-c-kernel
+
+> install_c_kernel --user
+
+> jupyter notebook
