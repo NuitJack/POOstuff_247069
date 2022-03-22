@@ -10,7 +10,7 @@ Estrutura de pastas:
 
 ## Notebook 1 sobre Empréstimos
 
-[Notebook 1](https://github.com/NuitJack/POOstuff_247069/blob/main/lab01/notebooks/emprestimo01.ipynb)
+[Notebook 1](https://github.com/NuitJack/POOstuff_247069/blob/main/lab01/notebooks/emprestimo01%20.ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
 
