@@ -8,7 +8,7 @@ My Object Orientated Programming activities are here! UNICAMP stuff :)
 * `247069`
 
 # Curso
-* `Engenharia de Computação`
+* `Engenharia de Computação 021`
 
 # Estrutura de arquivos e pastas
 ~~~
