@@ -26,7 +26,7 @@ Fell free to explore and see my ideas for some problem solving!
 
 ## [Lab01](https://github.com/NuitJack/POOstuff_247069/tree/main/lab01) - Empréstimos em C
 
-## [Lab02]() - 
+## [Lab02](https://github.com/NuitJack/POOstuff_247069/tree/main/lab02) - Do C para o Java
 
 # Binder configs and credits
 All credits and thanks to my Teacher [André Santanchè](https://www.ic.unicamp.br/~santanch/index.html)
