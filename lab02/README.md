@@ -5,7 +5,7 @@ Estrutura de pastas:
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
 │
-└── notebooks   <- arquivos do notebook
+└── notebook   <- arquivos do notebook
 ~~~
 
 ## Notebook 1
