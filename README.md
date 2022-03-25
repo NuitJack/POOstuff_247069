@@ -31,4 +31,4 @@ Fell free to explore and see my ideas for some problem solving!
 # Binder configs and credits
 All credits and thanks to my Teacher [André Santanchè](https://www.ic.unicamp.br/~santanch/index.html)
 
-You can see his repository on this subject [here](https://github.com/santanche/java2learn)
+You can see his repository on this subject [here](https://github.com/santanche/java2learn), from where I got the binder folder and .gitignore, for smooth running on Binder
