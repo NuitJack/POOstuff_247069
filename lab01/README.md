@@ -1,5 +1,5 @@
 # Lab01 - Empréstimos em C
-!Warning! This repository doesn't inicialize a C kernel in Jupyter, therefore you'll only be able to see the code and its output from when I ran it in other environment.
+Warning! This repository doesn't inicialize a C kernel in Jupyter, therefore you'll only be able to see the code and its output from when I ran it in other environment.
 
 Estrutura de pastas:
 
