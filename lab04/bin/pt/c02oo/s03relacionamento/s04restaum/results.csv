@@ -1,0 +1,152 @@
+# Tabuleiro inicial
+  PPP  
+  PPP  
+PPPPPPP
+PPP-PPP
+PPPPPPP
+  PPP  
+  PPP  
+# source: f4; target: d4
+  PPP  
+  PPP  
+PPPPPPP
+PPPP--P
+PPPPPPP
+  PPP  
+  PPP  
+# source: c4; target: e4
+  PPP  
+  PPP  
+PPPPPPP
+PP--P-P
+PPPPPPP
+  PPP  
+  PPP  
+# source: a4; target: c4
+  PPP  
+  PPP  
+PPPPPPP
+--P-P-P
+PPPPPPP
+  PPP  
+  PPP  
+# source: d6; target: d4
+  PPP  
+  PPP  
+PPPPPPP
+--PPP-P
+PPP-PPP
+  P-P  
+  PPP  
+# source: d4; target: f4
+  PPP  
+  PPP  
+PPPPPPP
+--P--PP
+PPP-PPP
+  P-P  
+  PPP  
+# source: g4; target: e4
+  PPP  
+  PPP  
+PPPPPPP
+--P-P--
+PPP-PPP
+  P-P  
+  PPP  
+# source: d2; target: d4
+  PPP  
+  P-P  
+PPP-PPP
+--PPP--
+PPP-PPP
+  P-P  
+  PPP  
+# source: d4; target: b4
+  PPP  
+  P-P  
+PPP-PPP
+-P--P--
+PPP-PPP
+  P-P  
+  PPP  
+# source: f5; target: d3
+  PPP  
+  P-P  
+PPP-PPP
+-P--P--
+PPP-PPP
+  P-P  
+  PPP  
+# source: f3; target: d3
+  PPP  
+  P-P  
+PPPP--P
+-P--P--
+PPP-PPP
+  P-P  
+  PPP  
+# source: c3; target: e3
+  PPP  
+  P-P  
+PP--P-P
+-P--P--
+PPP-PPP
+  P-P  
+  PPP  
+# source: c6; target: c3
+  PPP  
+  P-P  
+PP--P-P
+-P--P--
+PPP-PPP
+  P-P  
+  PPP  
+# source: c6; target: c4
+  PPP  
+  P-P  
+PP--P-P
+-PP-P--
+PP--PPP
+  --P  
+  PPP  
+# source: a3; target: c3
+  PPP  
+  P-P  
+--P-P-P
+-PP-P--
+PP--PPP
+  --P  
+  PPP  
+# source: c2; target: c4
+  PPP  
+  P-P  
+--P-P-P
+-PP-P--
+PP--PPP
+  --P  
+  PPP  
+# source: c4; target: a4
+  PPP  
+  P-P  
+--P-P-P
+P---P--
+PP--PPP
+  --P  
+  PPP  
+# source: a5; target: a3
+  PPP  
+  P-P  
+P-P-P-P
+----P--
+-P--PPP
+  --P  
+  PPP  
+# source: g3; target: d3
+  PPP  
+  P-P  
+P-P-P-P
+----P--
+-P--PPP
+  --P  
+  PPP  
