@@ -24,6 +24,8 @@ Fell free to explore and see my ideas for some problem solving!
 ├── lab02      <- segundo lab
 │
 ├── lab03     <- terceiro lab
+│
+├── lab04     <- quarto lab
 ~~~
 
 ## [Lab01](https://github.com/NuitJack/POOstuff_247069/tree/main/lab01) - Empréstimos em C
@@ -31,6 +33,8 @@ Fell free to explore and see my ideas for some problem solving!
 ## [Lab02](https://github.com/NuitJack/POOstuff_247069/tree/main/lab02) - Do C para o Java
 
 ## [Lab03](https://github.com/NuitJack/POOstuff_247069/tree/main/lab03) - Lombriga no Aquário
+
+## [Lab04](https://github.com/NuitJack/POOstuff_247069/tree/main/lab04) - Jogo Resta 1
 
 # Binder configs and credits
 All credits and thanks to my Teacher [André Santanchè](https://www.ic.unicamp.br/~santanch/index.html)
